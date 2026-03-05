@@ -16,3 +16,6 @@ Welcome to my central repository for university coursework and research. This sp
 
 ---
 
+<hr style="border: 0.4px margin: 1em 0;">
+
+### 🎓 University
