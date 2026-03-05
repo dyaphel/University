@@ -8,11 +8,11 @@ Welcome to my central repository for university coursework and research. This sp
 
 | Project / Module | Status |
 | :--- | :--- |
-| **[BookLine](./BookLine)** | 🟢 Completed |
-| **[Network-Infrastructure](./Network-infrastructure)** | 🟢 Completed |
-| **[Machine-Learning](./Machine-Learning)** | 🟢 Completed |
-| **[Planning-Reasoning](./Planning-Reasoning)** | 🟡 In Progress |
-| **[Visual-Analytics](./Visual-analytics)** | 🟡 In Progress |
+| **[BookLine]** | 🟢 Completed |
+| **[Network-Infrastructure]** | 🟢 Completed |
+| **[Machine-Learning]** | 🟢 Completed |
+| **[Planning-Reasoning]** | 🟡 In Progress |
+| **[Visual-Analytics]** | 🟡 In Progress |
 
 ---
 
