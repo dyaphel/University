@@ -1,0 +1,15 @@
+[submodule "Network-infrastructure"]
+	path = Network-infrastructure
+	url = https://github.com/dyaphel/Network-infrastructure.git
+[submodule "BookLine"]
+	path = BookLine
+	url = https://github.com/dyaphel/BookLine.git
+[submodule "Machine-Learning"]
+	path = Machine-Learning
+	url = https://github.com/dyaphel/Machine-Learning.git
+[submodule "Planning-Reasoning"]
+	path = Planning-Reasoning
+	url = https://github.com/dyaphel/Planning-Reasoning.git
+[submodule "Visual-analytics"]
+	path = Visual-analytics
+	url = https://github.com/dyaphel/Visual-analytics.git
