@@ -12,7 +12,7 @@ Welcome to my central repository for university coursework and research. This sp
 | **[Network-Infrastructure]** | 🟢 Completed |
 | **[Machine-Learning]** | 🟢 Completed |
 | **[Planning-Reasoning]** | 🟡 In Progress |
-| **[Visual-Analytics]** | 🟡 In Progress |
+| **[Visual-Analytics]** | 🟢 Completed |
 
 ---
 
