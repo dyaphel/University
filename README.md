@@ -11,7 +11,7 @@ Welcome to my central repository for university coursework and research. This sp
 | **[BookLine]** | 🟢 Completed |
 | **[Network-Infrastructure]** | 🟢 Completed |
 | **[Machine-Learning]** | 🟢 Completed |
-| **[Planning-Reasoning]** | 🟡 In Progress |
+| **[Planning-Reasoning]** |  🟢 Completed |
 | **[Visual-Analytics]** | 🟢 Completed |
 
 ---
