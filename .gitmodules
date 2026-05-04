@@ -13,3 +13,6 @@
 [submodule "Visual-analytics"]
 	path = Visual-analytics
 	url = https://github.com/dyaphel/Visual-analytics.git
+[submodule "planning-project"]
+	path = planning-project
+	url = https://github.com/riccardomearelli/planning-project.git
