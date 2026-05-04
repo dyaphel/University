@@ -7,10 +7,10 @@
 [submodule "Machine-Learning"]
 	path = Machine-Learning
 	url = https://github.com/dyaphel/Machine-Learning.git
-[submodule "Planning-Reasoning"]
-	path = Planning-Reasoning
-	url = https://github.com/dyaphel/Planning-Reasoning.git
 [submodule "Visual-analytics"]
 	path = Visual-analytics
 	url = https://github.com/dyaphel/Visual-analytics.git
 
+[submodule "Planning-Reasoning"]
+	path = Planning-Reasoning
+	url = https://github.com/dyaphel/Planning-Reasoning
