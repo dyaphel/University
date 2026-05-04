@@ -10,6 +10,3 @@
 [submodule "Visual-analytics"]
 	path = Visual-analytics
 	url = https://github.com/dyaphel/Visual-analytics.git
-[submodule "Planning-Reasoning"]
-	path = Planning-Reasoning
-	url = https://github.com/dyaphel/Planning-Reasoning
